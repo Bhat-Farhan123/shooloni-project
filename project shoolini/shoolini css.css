@@ -1,0 +1,241 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+   .container{
+   
+    height: 40px;
+    padding-top:20px ;
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row;
+    background-color:whitesmoke;
+    color: black;
+    border: 8px solid red;
+} 
+
+a{
+    margin:10px ;
+    color: black;
+
+
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+.nav-bar{
+    height:100px ;
+    background-color:red ;
+}
+.logo{
+    padding-left: 10px;
+}
+P{
+    color: black;
+}
+
+.nav-bar{
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav-text{
+    display: flex;
+    align-items: center;
+}
+.nav-text p{
+    display: inline;
+    margin-left: 15px;
+    color: #f3f3f3;
+    
+
+}
+
+.button{
+    display: flex;
+    align-items: center;
+
+}
+button{
+    color: black;
+    background-color: bisque;
+    height: 35px;
+    width: 160px;
+}
+.search{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.8rem;
+}
+i{
+    color: bisque;
+    
+}
+.main-content{
+    width: 100%;
+    overflow:hidden ;
+    border: 8px solid red;
+
+    
+      
+
+}
+.img{
+    width: 100%;
+    display: block;
+    height: auto;
+}
+.image-container {
+    max-width: 800px; /* Set the maximum width of the container */
+    max-height: 1000px; /* Set the maximum height of the container */
+    overflow: hidden; /* Hide any overflow beyond the set dimensions */
+  }
+
+  
+  h1{
+
+    color:darkmagenta;
+    
+  }
+  .text{
+    color: black;
+  }
+  .main-box{
+    display:flex;
+    height:580px ;
+    border: 8px solid red;
+
+  }
+  .logo2{
+    height:80px ;
+    background-color:black;
+    
+    text-align: center;
+  
+
+
+  }
+  .photo{
+    height:80px ;
+    
+  }
+
+  .ftr{
+    height:100px ;
+    width:100% ;
+    background-color: rgb(5, 228, 228);
+    
+    border: 2px solid black;
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+    
+    
+  }
+
+
+
+  .background-clip{
+    position: absolute;
+    right:0 ;
+    bottom: 0;
+    z-index: -1;
+  }
+
+  P:hover{
+    color: black;
+    font-size: x-large;
+    font-weight:1000 ;
+  }
+
+    a:hover{
+    font-size: x-large;
+    color: red;
+  
+  }
+  
+
+  .two:hover{
+    border: 5px solid rgb(170, 27, 51);
+    background-color: aqua;
+    color: black;
+    font-size: large;
+  }
+  .search:hover{
+    font-size: xx-large;
+    color: grey;
+  }
+
+ .login{
+  width: 300px;
+  height:390px ;
+  box-shadow: 0 0 3px 0 rgba(0,0, 0, 3);
+  background: #fff;
+  padding: 20px;
+  margin: 8% auto;   /*------------*/
+  text-align: center;
+  font-family: sans-serif;
+  
+  
+ }
+ .main-box{
+  display: flex;
+  justify-content: end;
+ }
+ 
+ b{
+  color: black;
+ }
+
+ .input-box{
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px 0;
+  width: 90%;
+  border: 1px solid #999;
+  outline:none;
+
+ }
+
+  .three{
+  color: #fff;
+  width: 90%;
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 15px;
+  margin: 10px 0;
+  border: none;
+  outline: none;
+  cursor: pointer;
+ }
+  
+ .signup-btn{
+  background-color: #1c8adb;
+
+ }
+ .twitter-btn{
+  background-color: #21afde;
+
+ }
+
+ hr{
+  margin-top: 20px;
+ }
+
+ .sub-menu-1{
+  display: none;
+
+ }
+   
+   
+
+ 
+  
